@@ -18,17 +18,16 @@ Here are some ideas to get you started:
 
 <p align="center">
   <!-- LinkedIn Icon -->
-  <a href="https://www.linkedin.com/in/aya-mashaly-909405249" target="_blank">
+  <a href="https://www.linkedin.com/in/aya-mashaly-909405249" target="_blank" style="margin-right: 20px;">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
   </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
   <!-- WhatsApp Icon -->
-  <a href="https://wa.me/01229447109" target="_blank">
+  <a href="https://wa.me/your-phone-number" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
