@@ -24,11 +24,7 @@ Here are some ideas to get you started:
 
 <h2>👩‍💻 About Me</h2>
 <p align="center">
-  Passionate iOS Developer with a strong foundation in software engineering and a commitment to 
-  building innovative, user-friendly mobile applications. Continuously eager to learn and adopt new 
-  technologies to improve development processes and app performance. Excited about solving real-world 
-  challenges through iOS development and contributing as a valuable team member to deliver high-quality, 
-  impactful solutions.
+  Passionate iOS Developer with a strong foundation in software engineering and a commitment to building innovative, user-     friendly mobile applications. Continuously eager to learn and adopt new technologies to improve development processes and app   performance. Excited about solving real-world challenges through iOS development and contributing as a valuable team member     to deliver high-quality, impactful solutions.
 </p>
 
 
