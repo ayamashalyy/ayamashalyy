@@ -21,6 +21,8 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/aya-mashaly-909405249" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
   </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
   
   <!-- WhatsApp Icon -->
   <a href="https://wa.me/01229447109" target="_blank">
