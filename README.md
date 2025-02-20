@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hey, I'm <span style="color:#FF69B4;">Aya Mashaly</span> 👩‍💻</h1>
 <h3 align="center"><span style="color:#4CAF50;">iOS Developer</span></h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/aya-mashaly-909405249" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 
 
