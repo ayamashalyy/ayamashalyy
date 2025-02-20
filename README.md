@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hey, I'm <span style="color:#FF69B4;">Aya Mashaly</span> 👩‍💻</h1>
-<h3 align="center">An <span style="color:#4CAF50;">iOS Developer</span></h3>
+<h3 align="center"><span style="color:#4CAF50;">iOS Developer</span></h3>
 
 
 
