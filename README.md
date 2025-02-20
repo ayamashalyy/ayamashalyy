@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
   </a>
 
-<h2 align="center">👩‍💻 About Me</h2>
+<h2>👩‍💻 About Me</h2>
 <p align="center">
   Passionate iOS Developer with a strong foundation in software engineering and a commitment to 
   building innovative, user-friendly mobile applications. Continuously eager to learn and adopt new 
