@@ -22,12 +22,6 @@ Here are some ideas to get you started:
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
   </a>
 
-  <!-- WhatsApp Icon -->
-  <a href="https://wa.me/your-phone-number" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" width="40" height="40"/>
-  </a>
-</p>
-
 
 
 
